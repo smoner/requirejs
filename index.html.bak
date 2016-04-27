@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="js/require.js" data-main="yum"></script>      
+    </head>
+    <body>
+      <span id='body'>body</span>
+	  <div id='title'></div>
+    </body>
+</html>
